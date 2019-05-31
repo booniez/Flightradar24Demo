@@ -1,0 +1,42 @@
+PODS:
+  - AMap3DMap (6.8.1):
+    - AMapFoundation (~> 1.5)
+  - AMapFoundation (1.5.6)
+  - Reveal-SDK (22)
+  - RxCocoa (5.0.0):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.0.0):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.0)
+  - SnapKit (5.0.0)
+
+DEPENDENCIES:
+  - AMap3DMap
+  - Reveal-SDK
+  - RxCocoa
+  - RxSwift
+  - SnapKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AMap3DMap
+    - AMapFoundation
+    - Reveal-SDK
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  AMap3DMap: 9fa4ec6ab230bfbd3f0c0834f757fbd7038efe53
+  AMapFoundation: 20fce2a12cd152e1092afdd04379cdac21932185
+  Reveal-SDK: 1385ab77aa15e9a3e21f798c74bd8e94cb54c651
+  RxCocoa: fcf32050ac00d801f34a7f71d5e8e7f23026dcd8
+  RxRelay: 4f7409406a51a55cd88483f21ed898c234d60f18
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+
+PODFILE CHECKSUM: 5dd17aecb69b4630dc78bad892aafbf58bce3cfd
+
+COCOAPODS: 1.7.0
